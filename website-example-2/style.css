@@ -1,0 +1,183 @@
+#page1{
+    background-color: rgb(233, 238, 239);
+    height: 600px;
+}
+.page3{
+    background-color: rgb(255,64,1);
+    color: white;
+}
+.page3-last-content{
+    background-color: rgb(2, 20, 32);
+    color: rgb(152, 157, 161);
+    padding: 100px;
+}
+#header-items{
+    padding: 25px;
+}
+a{
+    padding: 10px;
+    color: black;
+    font-weight: bolder;
+    font-size: small;
+}
+a:hover{
+    color: red;
+    text-decoration: underline red;
+}
+b{
+    color: rgb(255,64,1);
+    font-size: x-large;
+}
+#icon-label2{
+    color: rgb(2, 20, 32);
+    font-size: x-large;
+}
+.icon-label3{
+    color: rgb(174, 174, 179);
+    font-size: 10px;
+    /* font-weight: ; */
+    margin-top: -10px;
+}
+.icon-label{
+    margin-top: 20px;
+}
+.eye{
+    color: rgb(255,64,1);
+    font-weight: bold;
+}
+.design{
+    color: rgb(2, 20, 32);
+    font-weight: bold;
+}
+.content-page1-addressing-heading{
+    color: rgb(2, 20, 32);
+    /* font-weight: b; */
+    font-size: 40px;
+}
+#content-page1-addressing{
+    /* padding: 50px; */
+    margin-top: 40px;
+    text-align: end;
+}
+.website{
+    color: rgb(255,64,1);
+    font-weight: bold;
+}
+#detail{
+    background-color: rgb(2, 20, 32); 
+    border-radius: 30px;
+    border: solid 3px white;
+}
+#contact{
+    background-color: rgb(255,64,1);
+    border-radius: 30px;
+    border: solid 3px white;
+    margin-left: 20px;
+}
+.buttons{
+    margin: 30px;
+    /* height: 30px; */
+    /* border: solid 3px black; */
+}
+#content-page1-picture{
+    margin-top: 60px;
+}
+.intro-box{
+        /* border: solid 3px black; */
+        text-align: center;
+        display: inline-block;
+        width: 600px;
+        height: 60px;
+        margin: auto;
+        margin-top: -30px;
+}
+.page2-part1-happy-clients1{
+    display: inline-block;
+    border: solid 3px rgb(196, 196, 212); height: 60px; width: 130px;
+}
+.page2-part1-project-complete1{
+    display: inline-block;
+    border: solid 3px rgb(196, 196, 212); height: 60px; width: 130px;
+}
+.page2-part1-happy-clients2{
+    display: inline-block;
+    border: solid 3px rgb(196, 196, 212); height: 60px; width: 130px;
+}
+.page2-part1-project-complete2{
+    display: inline-block;
+    border: solid 3px rgb(196, 196, 212); height: 60px; width: 130px;
+}
+.box-lower-content{
+    margin-top: 40px;
+    color: rgb(160, 162, 163);
+    font-weight: bold;
+}
+.page2-part1-head{
+    color: rgb(2, 20, 32);
+    font-size: 40px;
+}
+.your-samert{
+    font-size: 40px;
+}
+.head-part{
+    color: black;
+}
+.web-design{
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+.graphic-design{
+    padding-top: 80px;
+}
+.we-commerce-design{
+    padding-top: 80px;
+}
+.open-sou-dev{
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+.online-marketing{
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+.theming{
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+#page2-last-head{
+    font-weight: bold;
+}
+.handle1{
+    font-size: 60px;
+    color: rgb(2, 20, 32);
+}
+.handle-bus{
+    font-size: 60px;
+}
+#page2-content{
+    color: rgb(141, 141, 143);
+    margin-bottom: 30px;
+}
+.page3-content-1-head{
+    color: white;
+    /* text-align: end; */
+}
+.page3-content-1-content{
+    font-size: 10px;
+}
+.page3-content11{
+    margin-top: 20px;
+    padding: 30px;
+    text-align: end;
+}
+.page3-content31{
+    margin-top: 20px;
+    padding: 30px;
+}
+.page3-last-head{
+    font-weight: bold;
+}
+.handle{
+    color: white;
+    font-size: 60px;
+}
