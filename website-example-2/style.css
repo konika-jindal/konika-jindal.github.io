@@ -66,6 +66,7 @@ b{
 #detail{
     background-color: rgb(2, 20, 32); 
     border-radius: 30px;
+    color: white;
     border: solid 3px white;
 }
 #contact{
@@ -73,6 +74,7 @@ b{
     border-radius: 30px;
     border: solid 3px white;
     margin-left: 20px;
+    color: white;
 }
 .buttons{
     margin: 30px;

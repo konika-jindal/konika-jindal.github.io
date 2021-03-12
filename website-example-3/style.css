@@ -1,0 +1,165 @@
+#page1{
+    /* background: url(/website-example-3/img/engineer.jpeg); */
+    background-image: url(https://www.codility.com/wp-content/uploads/2020/03/LIGHT-HOMEPAGE.jpg);
+    /* background-color: rgb(30,30,30); */
+    color: white;
+}
+li{
+    overflow: hidden;
+}
+#login_and_help{
+    /* margin: 0px 10px 0px 10px; */
+    /* align-items: flex-end; */
+}
+#menu{
+    border: solid 1px rgb(189, 183, 183);
+}
+.button-content{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 0px 15px;
+    margin: 30px 0px;
+}
+.codility{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 30px 0px;
+}
+.yellow{
+    color: yellow;
+}
+.get-started{
+    border-radius: 20px;
+    border-color: white;
+    border-width: 3px;
+}
+.caps{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 50px;
+}
+#detail_of_page_1{
+}
+.details{
+    border: solid 1px gray;
+        padding: 50px;
+}
+.dash{
+    color: yellow;
+    font-size:30px;
+}
+#get-started-2{
+    background-color: yellow;
+    color: rgb(51, 48, 48);
+    border-radius: 20px;
+    font-weight: bold;
+    border: none;
+}
+#page2{
+    height: 600px;
+}
+.left-page2{
+    background-image: url(https://www.codility.com/wp-content/uploads/2021/02/50-50-Module-2.png);
+    padding: 20px;
+    width: 50%;
+}
+.page2-content{
+    font-weight: bold;
+}
+#page2-head{
+    font-size: 40px;
+}
+.right-page2{
+    padding: 30px;
+}
+.save-your-seat{
+    background-color: rgb(26, 26, 48);
+    color: white;
+    border-radius: 140px;
+    font-size: 25px;
+    font-weight: bold;
+    border: none;
+}
+#page3{
+    background-color: rgb(244, 244, 244);
+    /* height: 700px; */
+}
+.page3-content{
+    color: rgb(46, 53, 71);
+    border: solid 1px lightgrey;
+}
+.page3-content-head{
+  font-weight: bold;
+  font-size: 50px;
+}
+.page4-pic{
+    background-color: rgb(241, 241, 9);
+    text-align: auto;
+}
+#page5{
+    background-color: rgb(57, 60, 75);
+    color: white;
+}
+.border_color{
+    border: solid 1px rgb(35, 35, 56);
+}
+#page6{
+    background-color: rgb(39, 42, 49);
+    color: white;
+}
+.fa-twitter{
+    color: white;
+}
+.twitter{
+    border: solid 1px rgb(60, 60, 80);
+    color: white;
+    text-decoration: none;
+    /* margin-top: 10px; */
+
+}
+.applications{
+    margin-bottom: 0rem;
+}
+#page6-last-content{
+    border: solid 1px rgb(60, 60, 80);
+   text-decoration: none;
+   /* font-weight: 20px; */
+}
+.form-control{
+    width: 90%;
+    background-color: rgb(39, 42, 49);
+    border: solid 1px red;
+    padding: 16px;
+}
+.linking-content{
+    text-decoration: none;
+    color: rgb(185, 177, 177);
+    letter-spacing: -0.53px;
+    font-size: 14px;
+    transition: 0.3s ease;
+}
+.linking-content-head{
+    font-weight: bold;
+}
+#page6-last-content-part1{
+    padding-left: 100px;
+}
+.page6-content-head{
+    font-size: 30px;
+}
+.page6-content-part{
+    color: rgb(185, 177, 177);
+     font-weight: bold;
+}
+#get-started-2-submit{
+    background-color: yellow;
+    color: rgb(51, 48, 48);
+    border-radius: 20px;
+    font-weight: bold;
+    border: none;
+    width: 90%;
+    padding: 16px;
+}
