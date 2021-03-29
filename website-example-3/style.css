@@ -91,6 +91,9 @@ li{
     color: rgb(46, 53, 71);
     border: solid 1px lightgrey;
 }
+.part2{
+    height: 300px;
+}
 .page3-content-head{
   font-weight: bold;
   font-size: 50px;
