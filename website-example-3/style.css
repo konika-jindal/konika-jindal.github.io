@@ -11,8 +11,12 @@ li{
     /* margin: 0px 10px 0px 10px; */
     /* align-items: flex-end; */
 }
+@keyframes login_and_help{
+
+}
 #menu{
     border: solid 1px rgb(189, 183, 183);
+    text-size-adjust: 4px;
 }
 .button-content{
     color: white;
