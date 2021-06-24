@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+ul {
+	background-color: #333;
+	list-style-type: none;
+	overflow: hidden;
+	margin: 10px;
+    border-radius: 30px;
+	padding-left: 50px;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+	float: left;
+	border-right: 2px solid #bbb;
+}
+
+li a {
+	display: block;	
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.active {
+		background-color: #294239;
+}
+
+li a:hover:not(.active) {
+			  background-color: #111;
+}
+
+</style>
+
+</head>
+
+<body style="background-color: rgb(236, 236, 130);">
+
+	<h1 style=" align:center;"> Navigation Bar with HTML and css </h1>
+
+	<ul>
+		<li><a href="#home"> Home </a></li>
+		<li><a class="active" href="#gallery.html">
+
+            <select name="Gallery" id="cars">
+              <option value="volvo" style="color: black;">Gallery</option>
+              <option value="saab">Saab</option>
+              <option value="mercedes">Mercedes</option>
+              <option value="audi">Audi</option>
+            </select></a></li>
+		<li><a href="#event"> Events </a></li>
+		<li><a href="#contact"> Contact Us </a></li>
+	</ul>
+
+</body>	
+
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+.dp {
+	background-color: #4CAF50;
+	color: white;
+	border: none;
+	font-size: 16px;
+	padding: 16px;
+	cursor: pointer;
+}
+
+.dd {
+	position: relative;
+	display: inline-block;
+}
+
+.dd-content {
+		display: none;
+		position: absolute;
+		background-color: #f9f9f9;
+		min-width: 160px;
+		z-index: 1;
+		box-shadow: 0px 8px 16px 0px
+		rgba(0,0,0,0.2);
+}
+
+.dd-content a {
+		display: block;
+		color: black;
+		padding: 12px 16px;
+		text-decoration: none;
+}
+
+.dd-content a:hover {
+			background-color: #f1f1f1;
+}
+
+.dd:hover .dd-content {
+			display: block;
+}
+
+.dd:hover .dp {
+		background-color: #3e8e41;
+}
+
+</style>
+
+</head>
+
+<body style="background-color: linen;">
+
+	<h1> DropDown Menu </h1>
+
+	<div class="dd">
+	   <button class="dp"> Gallery </button>
+
+	      <div class="dd-content">
+
+		<a href="#"> Wedding Photography </a>
+		<a href="#"> Wildlife Photography </a>
+		<a href="#"> Street Photography </a>
+		<a href="#"> Nature Photography </a>
+	      </div>
+	</div>
+
+</body>	
+
+</html>
