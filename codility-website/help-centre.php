@@ -8,7 +8,7 @@ if (!empty($_REQUEST)) {
 
 ?>
 <?php 
-$baseUrl = '/projects/codility-website';
+$baseUrl ='/codility-website';
 $siteUrl = "http://localhost{$baseUrl}";
 ?>
 <!DOCTYPE html>
