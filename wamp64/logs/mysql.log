@@ -1,0 +1,22 @@
+- Wampserver trace report -
+File created by Wampserver install
+2021-04-12T09:07:29.754123Z 0 [System] [MY-010116] [Server] c:\wamp64\bin\mysql\mysql8.0.21\bin\mysqld.exe (mysqld 8.0.21) starting as process 7924
+2021-04-12T09:07:29.832484Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-04-12T09:07:31.607441Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-04-12T09:07:32.204628Z 0 [System] [MY-010931] [Server] c:\wamp64\bin\mysql\mysql8.0.21\bin\mysqld.exe: ready for connections. Version: '8.0.21'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-04-17T08:24:16.968690Z 0 [System] [MY-010116] [Server] c:\wamp64\bin\mysql\mysql8.0.21\bin\mysqld.exe (mysqld 8.0.21) starting as process 3860
+2021-04-17T08:24:17.264890Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-04-17T08:24:18.757924Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-04-17T08:24:19.264716Z 0 [System] [MY-010931] [Server] c:\wamp64\bin\mysql\mysql8.0.21\bin\mysqld.exe: ready for connections. Version: '8.0.21'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-04-17T17:18:31.568013Z 0 [System] [MY-013105] [Server] c:\wamp64\bin\mysql\mysql8.0.21\bin\mysqld.exe: Normal shutdown.
+2021-04-17T17:18:32.181577Z 0 [System] [MY-010910] [Server] c:\wamp64\bin\mysql\mysql8.0.21\bin\mysqld.exe: Shutdown complete (mysqld 8.0.21)  MySQL Community Server - GPL.
+2021-04-18T10:33:44.215864Z 0 [System] [MY-010116] [Server] c:\wamp64\bin\mysql\mysql8.0.21\bin\mysqld.exe (mysqld 8.0.21) starting as process 11284
+2021-04-18T10:33:44.344356Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-04-18T10:33:45.167499Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-04-18T10:33:45.550123Z 0 [System] [MY-010931] [Server] c:\wamp64\bin\mysql\mysql8.0.21\bin\mysqld.exe: ready for connections. Version: '8.0.21'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-06-05T06:41:17.576669Z 0 [System] [MY-013105] [Server] c:\wamp64\bin\mysql\mysql8.0.21\bin\mysqld.exe: Normal shutdown.
+2021-06-05T06:41:19.069457Z 0 [System] [MY-010910] [Server] c:\wamp64\bin\mysql\mysql8.0.21\bin\mysqld.exe: Shutdown complete (mysqld 8.0.21)  MySQL Community Server - GPL.
+2021-06-21T17:05:57.095780Z 0 [System] [MY-010116] [Server] c:\wamp64\bin\mysql\mysql8.0.21\bin\mysqld.exe (mysqld 8.0.21) starting as process 13916
+2021-06-21T17:05:57.218001Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-06-21T17:05:58.022351Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-06-21T17:05:58.691960Z 0 [System] [MY-010931] [Server] c:\wamp64\bin\mysql\mysql8.0.21\bin\mysqld.exe: ready for connections. Version: '8.0.21'  socket: ''  port: 3306  MySQL Community Server - GPL.

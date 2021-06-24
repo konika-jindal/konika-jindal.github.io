@@ -1,0 +1,38 @@
+- Wampserver trace report -
+File created by Wampserver install
+[Mon Apr 12 14:37:30.808764 2021] [mpm_winnt:notice] [pid 13352:tid 624] AH00455: Apache/2.4.46 (Win64) PHP/7.3.21 configured -- resuming normal operations
+[Mon Apr 12 14:37:30.809397 2021] [mpm_winnt:notice] [pid 13352:tid 624] AH00456: Apache Lounge VS16 Server built: Aug  2 2020 10:21:32
+[Mon Apr 12 14:37:30.809397 2021] [core:notice] [pid 13352:tid 624] AH00094: Command line: 'c:\\wamp64\\bin\\apache\\apache2.4.46\\bin\\httpd.exe -d C:/wamp64/bin/apache/apache2.4.46'
+[Mon Apr 12 14:37:30.813751 2021] [mpm_winnt:notice] [pid 13352:tid 624] AH00418: Parent: Created child process 15344
+[Mon Apr 12 14:37:31.389270 2021] [mpm_winnt:notice] [pid 15344:tid 480] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 15 08:33:03.099228 2021] [php7:error] [pid 15344:tid 1164] [client ::1:63806] script 'C:/wamp64/www/projects/codility-website/read-customerstories.php' not found or unable to stat, referer: http://localhost/projects/codility-website/
+[Thu Apr 15 08:33:10.323566 2021] [php7:error] [pid 15344:tid 1164] [client ::1:63809] script 'C:/wamp64/www/projects/codility-website/read-customerstories.php' not found or unable to stat, referer: http://localhost/projects/codility-website/
+[Thu Apr 15 08:33:50.601366 2021] [php7:error] [pid 15344:tid 1168] [client ::1:63821] script 'C:/wamp64/www/projects/codility-website/read-customerstories.php' not found or unable to stat, referer: http://localhost/projects/codility-website/
+[Thu Apr 15 21:51:22.833765 2021] [php7:error] [pid 15344:tid 1152] [client ::1:54069] script 'C:/wamp64/www/projects/codility-website/product-tour.php' not found or unable to stat, referer: http://localhost/projects/codility-website/product-tour.php
+[Sat Apr 17 13:54:16.623748 2021] [core:warn] [pid 8384:tid 576] AH00098: pid file C:/wamp64/bin/apache/apache2.4.46/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 17 13:54:17.897792 2021] [mpm_winnt:notice] [pid 8384:tid 576] AH00455: Apache/2.4.46 (Win64) PHP/7.3.21 configured -- resuming normal operations
+[Sat Apr 17 13:54:17.897792 2021] [mpm_winnt:notice] [pid 8384:tid 576] AH00456: Apache Lounge VS16 Server built: Aug  2 2020 10:21:32
+[Sat Apr 17 13:54:17.897792 2021] [core:notice] [pid 8384:tid 576] AH00094: Command line: 'c:\\wamp64\\bin\\apache\\apache2.4.46\\bin\\httpd.exe -d C:/wamp64/bin/apache/apache2.4.46'
+[Sat Apr 17 13:54:17.907660 2021] [mpm_winnt:notice] [pid 8384:tid 576] AH00418: Parent: Created child process 3700
+[Sat Apr 17 13:54:18.554202 2021] [mpm_winnt:notice] [pid 3700:tid 692] AH00354: Child: Starting 64 worker threads.
+[Sat Apr 17 13:56:06.835118 2021] [core:error] [pid 3700:tid 1164] (20024)The given path is misformatted or contained invalid characters: [client ::1:61713] AH00127: Cannot map GET /projects/codility-website/%3Cbr%20/%3E%3Cfont%20size='1'%3E%3Ctable%20class='xdebug-error%20xe-notice'%20dir='ltr'%20border='1'%20cellspacing='0'%20cellpadding='1'%3E%3Ctr%3E%3Cth%20align='left'%20bgcolor=' HTTP/1.1 to file, referer: http://localhost/projects/codility-website/get-started.php
+[Sat Apr 17 13:56:07.012347 2021] [core:error] [pid 3700:tid 1164] (20024)The given path is misformatted or contained invalid characters: [client ::1:61713] AH00127: Cannot map GET /projects/codility-website/%3Cbr%20/%3E%3Cfont%20size='1'%3E%3Ctable%20class='xdebug-error%20xe-notice'%20dir='ltr'%20border='1'%20cellspacing='0'%20cellpadding='1'%3E%3Ctr%3E%3Cth%20align='left'%20bgcolor=' HTTP/1.1 to file, referer: http://localhost/projects/codility-website/get-started.php
+[Sat Apr 17 13:56:07.182990 2021] [core:error] [pid 3700:tid 1164] (20024)The given path is misformatted or contained invalid characters: [client ::1:61713] AH00127: Cannot map GET /projects/codility-website/%3Cbr%20/%3E%3Cfont%20size='1'%3E%3Ctable%20class='xdebug-error%20xe-notice'%20dir='ltr'%20border='1'%20cellspacing='0'%20cellpadding='1'%3E%3Ctr%3E%3Cth%20align='left'%20bgcolor=' HTTP/1.1 to file, referer: http://localhost/projects/codility-website/get-started.php
+[Sat Apr 17 13:56:20.083559 2021] [core:error] [pid 3700:tid 1156] (20024)The given path is misformatted or contained invalid characters: [client ::1:61718] AH00127: Cannot map GET /projects/codility-website/%3Cbr%20/%3E%3Cfont%20size='1'%3E%3Ctable%20class='xdebug-error%20xe-notice'%20dir='ltr'%20border='1'%20cellspacing='0'%20cellpadding='1'%3E%3Ctr%3E%3Cth%20align='left'%20bgcolor=' HTTP/1.1 to file, referer: http://localhost/projects/codility-website/get-started.php
+[Sat Apr 17 13:56:20.088616 2021] [core:error] [pid 3700:tid 1164] (20024)The given path is misformatted or contained invalid characters: [client ::1:61719] AH00127: Cannot map GET /projects/codility-website/%3Cbr%20/%3E%3Cfont%20size='1'%3E%3Ctable%20class='xdebug-error%20xe-notice'%20dir='ltr'%20border='1'%20cellspacing='0'%20cellpadding='1'%3E%3Ctr%3E%3Cth%20align='left'%20bgcolor=' HTTP/1.1 to file, referer: http://localhost/projects/codility-website/get-started.php
+[Sat Apr 17 22:48:31.562611 2021] [mpm_winnt:notice] [pid 8384:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Apr 17 22:48:33.612227 2021] [mpm_winnt:notice] [pid 3700:tid 692] AH00364: Child: All worker threads have exited.
+[Sat Apr 17 22:48:33.784045 2021] [mpm_winnt:notice] [pid 8384:tid 576] AH00430: Parent: Child process 3700 exited successfully.
+[Sun Apr 18 16:03:45.021305 2021] [mpm_winnt:notice] [pid 11240:tid 716] AH00455: Apache/2.4.46 (Win64) PHP/7.3.21 configured -- resuming normal operations
+[Sun Apr 18 16:03:45.021976 2021] [mpm_winnt:notice] [pid 11240:tid 716] AH00456: Apache Lounge VS16 Server built: Aug  2 2020 10:21:32
+[Sun Apr 18 16:03:45.021976 2021] [core:notice] [pid 11240:tid 716] AH00094: Command line: 'c:\\wamp64\\bin\\apache\\apache2.4.46\\bin\\httpd.exe -d C:/wamp64/bin/apache/apache2.4.46'
+[Sun Apr 18 16:03:45.025598 2021] [mpm_winnt:notice] [pid 11240:tid 716] AH00418: Parent: Created child process 10172
+[Sun Apr 18 16:03:45.493260 2021] [mpm_winnt:notice] [pid 10172:tid 644] AH00354: Child: Starting 64 worker threads.
+[Sat Jun 05 12:11:17.549568 2021] [mpm_winnt:notice] [pid 11240:tid 716] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jun 05 12:11:19.623857 2021] [mpm_winnt:notice] [pid 10172:tid 644] AH00364: Child: All worker threads have exited.
+[Sat Jun 05 12:11:19.826701 2021] [mpm_winnt:notice] [pid 11240:tid 716] AH00430: Parent: Child process 10172 exited successfully.
+[Mon Jun 21 22:35:57.765444 2021] [mpm_winnt:notice] [pid 11428:tid 676] AH00455: Apache/2.4.46 (Win64) PHP/7.3.21 configured -- resuming normal operations
+[Mon Jun 21 22:35:57.766442 2021] [mpm_winnt:notice] [pid 11428:tid 676] AH00456: Apache Lounge VS16 Server built: Aug  2 2020 10:21:32
+[Mon Jun 21 22:35:57.766442 2021] [core:notice] [pid 11428:tid 676] AH00094: Command line: 'c:\\wamp64\\bin\\apache\\apache2.4.46\\bin\\httpd.exe -d C:/wamp64/bin/apache/apache2.4.46'
+[Mon Jun 21 22:35:57.785391 2021] [mpm_winnt:notice] [pid 11428:tid 676] AH00418: Parent: Created child process 11572
+[Mon Jun 21 22:35:58.218234 2021] [mpm_winnt:notice] [pid 11572:tid 672] AH00354: Child: Starting 64 worker threads.
